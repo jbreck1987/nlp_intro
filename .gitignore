@@ -1,0 +1,5 @@
+# Ignore anything in the data folder
+data/*
+
+# Ignore anything in the private folder (security keys, etc.)
+private/*
