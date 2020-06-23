@@ -3,3 +3,6 @@ data/*
 
 # Ignore anything in the private folder (security keys, etc.)
 private/*
+
+# Ignore the .env file that controls all sensitive ENV variables for this project
+.env
