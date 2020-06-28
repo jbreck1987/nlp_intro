@@ -6,3 +6,6 @@ private/*
 
 # Ignore the .env file that controls all sensitive ENV variables for this project
 .env
+
+# Ignore jupyter notebook checkpoints (thats what git is for)
+.ipynb_checkpoints/*
